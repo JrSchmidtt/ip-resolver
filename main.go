@@ -1,7 +1,7 @@
 package main
 
 import (
-	"command-line/app"
+	"ip-resolver/app"
 	"os"
 	"log"
 )

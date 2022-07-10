@@ -1,4 +1,4 @@
-module command-line
+module ip-resolver
 
 go 1.13
 
