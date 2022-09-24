@@ -11,9 +11,13 @@
 5. Run the command ```go mod tidy``` in folder to install the dependencies.
 
 ## COMMANDS:
-   ip       Lookup ip address of a website.
-   servers  Find DNS of host
-   help, h  Shows a list of commands or help for one command
+
+```ip```       Lookup ip address of a website.
+
+```servers```  Find DNS of host
+
+```help```, h  Shows a list of commands or help for one command
+
 
 
 ## Contributing
